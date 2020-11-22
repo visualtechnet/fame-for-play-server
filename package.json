@@ -4,6 +4,7 @@
   "description": "Node JS Server Side implementation for Fame For Play",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
